@@ -87,3 +87,11 @@ th {
     padding: 5px;
 }
 
+ul{
+    list-style: none;
+    padding:0;
+}
+
+li{
+    line-height: 30px;
+}
