@@ -95,3 +95,15 @@ ul{
 li{
     line-height: 30px;
 }
+
+/* #contact-info{
+    display:flex;
+    flex-direction: column;
+} */
+
+#contact-info p{
+    display: flex;
+    flex-direction: column;
+    margin:10px;
+    padding:0px;
+}
